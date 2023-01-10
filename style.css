@@ -36,15 +36,15 @@
 }
 #box:hover{
     color: rgb(48, 177, 228);
-    box-shadow: 0px 0px 15px white, 0px 0px 10px blue;
+    box-shadow: 0px 0px 15px white, 0px 0px 15px blue;
 }
 
 #tweep:hover{
     color: white;
 }
 #head{
-    width: 10%;
-    height: 10%;
+    width: 80px;
+    height: 80px;
     border: 1px solid rgb(48, 177, 228);
     position: absolute;
     top:10vh ;
@@ -56,7 +56,7 @@
 
 }
 #head:hover{
-    box-shadow:0px 0px 15px white, 0px 0px 10px blue ;
+    box-shadow:0px 0px 15px white, 0px 0px 15px blue ;
 }
 
 #foot{
